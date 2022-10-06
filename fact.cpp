@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-  cout<<"Enter the number of terms:"<<endl;
+  cout<<"Enter the number:"<<endl;
   int n; cin>>n;
   
   //call function here
